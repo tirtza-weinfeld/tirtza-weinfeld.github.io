@@ -1,0 +1,104 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0.0 0.0 960.0 720.0" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10">
+    <clipPath id="p.0">
+        <path d="m0 0l960.0 0l0 720.0l-960.0 0l0 -720.0z" clip-rule="nonzero"/>
+    </clipPath>
+    <g clip-path="url(#p.0)">
+        <path fill="#000000" fill-opacity="0.0" d="m0 0l960.0 0l0 720.0l-960.0 0z" fill-rule="evenodd"/>
+        <g mask="url(#mask-p.1)">
+            <use xlink:href="#p.1" transform="matrix(1.0 0.0 0.0 -1.0 0.0 872.4737076115485)"/>
+        </g>
+        <defs>
+            <mask id="mask-p.1" maskUnits="userSpaceOnUse" x="343.5355207349081" y="468.2368538057743" width="209.6062992125984" height="205.1968503937008">
+                <linearGradient gradientUnits="userSpaceOnUse" id="gradient-p.1" x1="349.53552073749756" y1="476.23613847293205" x2="349.5351081072862" y2="590.2226971832908">
+                    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.8299999833106995"/>
+                    <stop offset="100%" stop-color="#ffffff" stop-opacity="0.0"/>
+                </linearGradient>
+                <rect fill="url(#gradient-p.1)" x="343.5355207349081" y="468.2368538057743" width="209.6062992125984" height="205.1968503937008"/>
+            </mask>
+        </defs>
+        <g id="p.1">
+            <g filter="url(#shadowFilter-p.2)">
+                <use xlink:href="#p.2" transform="matrix(1.0 0.0 0.0 1.0 0.0 2.0)"/>
+            </g>
+            <defs>
+                <filter id="shadowFilter-p.2" filterUnits="userSpaceOnUse">
+                    <feGaussianBlur in="SourceAlpha" stdDeviation="2.0" result="blur"/>
+                    <feComponentTransfer in="blur" color-interpolation-filters="sRGB">
+                        <feFuncR type="linear" slope="0" intercept="0.98039216"/>
+                        <feFuncG type="linear" slope="0" intercept="0.003921569"/>
+                        <feFuncB type="linear" slope="0" intercept="0.11764706"/>
+                        <feFuncA type="linear" slope="0.5" intercept="0"/>
+                    </feComponentTransfer>
+                </filter>
+            </defs>
+            <g id="p.2">
+                <path fill="#000000" fill-opacity="0.0" d="m349.53552 203.04001l197.60632 0l0 193.19684l-197.60632 0z" fill-rule="evenodd"/>
+            </g>
+        </g>
+        <g mask="url(#mask-p.3)">
+            <use xlink:href="#p.3" transform="matrix(1.0 0.0 0.0 -1.0 0.0 872.4737076115485)"/>
+        </g>
+        <defs>
+            <mask id="mask-p.3" maskUnits="userSpaceOnUse" x="343.5355207349081" y="468.2368538057743" width="209.6062992125984" height="205.1968503937008">
+                <linearGradient gradientUnits="userSpaceOnUse" id="gradient-p.3" x1="349.53552073749756" y1="476.23613847293205" x2="349.5351081072862" y2="590.2226971832908">
+                    <stop offset="0%" stop-color="#ffffff" stop-opacity="0.8299999833106995"/>
+                    <stop offset="100%" stop-color="#ffffff" stop-opacity="0.0"/>
+                </linearGradient>
+                <rect fill="url(#gradient-p.3)" x="343.5355207349081" y="468.2368538057743" width="209.6062992125984" height="205.1968503937008"/>
+            </mask>
+        </defs>
+        <g id="p.3">
+            <g filter="url(#shadowFilter-p.4)">
+                <use xlink:href="#p.4" transform="matrix(1.0 0.0 0.0 1.0 0.0 2.0)"/>
+            </g>
+            <defs>
+                <filter id="shadowFilter-p.4" filterUnits="userSpaceOnUse">
+                    <feGaussianBlur in="SourceAlpha" stdDeviation="2.0" result="blur"/>
+                    <feComponentTransfer in="blur" color-interpolation-filters="sRGB">
+                        <feFuncR type="linear" slope="0" intercept="0.98039216"/>
+                        <feFuncG type="linear" slope="0" intercept="0.003921569"/>
+                        <feFuncB type="linear" slope="0" intercept="0.11764706"/>
+                        <feFuncA type="linear" slope="0.5" intercept="0"/>
+                    </feComponentTransfer>
+                </filter>
+            </defs>
+            <g id="p.4">
+                <path fill="#000000" fill-opacity="0.0" d="m349.53552 203.04001l197.60632 0l0 193.19684l-197.60632 0z" fill-rule="evenodd"/>
+            </g>
+        </g>
+        <defs>
+            <linearGradient id="p.5" gradientUnits="userSpaceOnUse" gradientTransform="matrix(12.426347406127118 0.0 0.0 12.426347406127118 0.0 0.0)" spreadMethod="pad" x1="40.3714431937347" y1="24.039293785589695" x2="31.584639998400693" y2="32.825999622490706">
+                <stop offset="0.0" stop-color="#ff00ff"/>
+                <stop offset="0.5" stop-color="#ff0000"/>
+                <stop offset="0.75" stop-color="#9900ff"/>
+                <stop offset="0.88" stop-color="#1155cc"/>
+                <stop offset="1.0" stop-color="#737373"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#p.5)" d="m415.47952 384.90973l0 45.995605l172.37827 0l0 -45.995605z" fill-rule="evenodd"/>
+        <path stroke="#ffffff" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m415.47952 384.90973l0 45.995605l172.37827 0l0 -45.995605z" fill-rule="evenodd"/>
+        <defs>
+            <linearGradient id="p.6" gradientUnits="userSpaceOnUse" gradientTransform="matrix(12.547977934045095 -7.755161844839917 7.755161844839917 12.547977934045095 0.0 0.0)" spreadMethod="pad" x1="9.710970855681383" y1="25.451252671005296" x2="0.8381617417427293" y2="34.32396413148285">
+                <stop offset="0.0" stop-color="#ff00ff"/>
+                <stop offset="0.5" stop-color="#ff0000"/>
+                <stop offset="0.75" stop-color="#9900ff"/>
+                <stop offset="0.88" stop-color="#1155cc"/>
+                <stop offset="1.0" stop-color="#737373"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#p.6)" d="m285.59998 386.51724l32.34143 44.375732l172.53891 -106.63611l-32.3414 -44.375732z" fill-rule="evenodd"/>
+        <path stroke="#ffffff" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m285.59998 386.51724l32.34143 44.375732l172.53891 -106.63611l-32.3414 -44.375732z" fill-rule="evenodd"/>
+        <defs>
+            <linearGradient id="p.7" gradientUnits="userSpaceOnUse" gradientTransform="matrix(13.00168456063992 5.285202515071731 -5.285202515071731 13.00168456063992 0.0 0.0)" spreadMethod="pad" x1="33.40993332911764" y1="-1.0122953067726606" x2="24.216303147711386" y2="8.181233150893556">
+                <stop offset="0.0" stop-color="#ff00ff"/>
+                <stop offset="0.5" stop-color="#ff0000"/>
+                <stop offset="0.75" stop-color="#9900ff"/>
+                <stop offset="0.88" stop-color="#1155cc"/>
+                <stop offset="1.0" stop-color="#737373"/>
+            </linearGradient>
+        </defs>
+        <path fill="url(#p.7)" d="m307.21243 221.6894l-21.776001 45.42781l189.64069 77.0892l21.776001 -45.427795z" fill-rule="evenodd"/>
+        <path stroke="#ffffff" stroke-width="1.0" stroke-linejoin="round" stroke-linecap="butt" d="m307.21243 221.6894l-21.776001 45.42781l189.64069 77.0892l21.776001 -45.427795z" fill-rule="evenodd"/>
+    </g>
+</svg>
